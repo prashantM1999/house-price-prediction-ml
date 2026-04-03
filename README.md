@@ -2,14 +2,15 @@
 Machine Learning project for predicting house prices using Linear Regression
 
 ## 📸 Visualizations
-### 📊 Price Distribution
-histogram.png
 
-### 📈 Area vs Price
-![Scatter Plot](scatter.png)
+### 📊 Price Distribution
+![Histogram](Histogram.png)
 
 ### 🔥 Correlation Heatmap
-![Heatmap](heatmap.png)
+![Heatmap](Heatmap.png)
 
 ### 🎯 Actual vs Predicted
-![Prediction](prediction.png)
+![Prediction](Prediction.png)
+
+### 📈 Area vs Price
+![Scatter Plot](Scatterplot.png)
